@@ -16,3 +16,6 @@ ISBN: [978-1-4919-0766-5](http://shop.oreilly.com/product/0636920034131.do)
 This repository contains a Vagrantfile and sample resources
 used for creation of the testing environment used in the Learning Puppet 4 book.
 
+## Me
+
+You need to install vagrant and virtualbox
